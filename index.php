@@ -7,7 +7,7 @@
 <body>
 <div id="container">
 	<div id="header">
-	<h2>header </h2>
+	<h2></h2>
 	</div>
 		 
 	<div id="navigation">
