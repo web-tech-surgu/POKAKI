@@ -1,12 +1,12 @@
 body {
-     background: #FF00FF;
+     background: #FFFFFF;
      color: #000;
      font-family: Arial, sans-serif;
      font-size: 14px;
 }
 
 #header {
-     background: #000000;
+     background: #C0C0C0;
      width: 100%;
      height: 55px;
 }
@@ -20,7 +20,7 @@ body {
 }
  
 #navigation {
-     background: #FFFFFF;
+     background: #C0C0C0;
      width: 100%;
      height: 25px;
 }
