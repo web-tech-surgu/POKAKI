@@ -7,19 +7,19 @@
 <body>
 <div id="container">
 	<div id="header">
-	<h2>header (шапка сайта)</h2>
+	<h2>header </h2>
 	</div>
 		 
 	<div id="navigation">
-	<h2>Блок навигации</h2>
+	<h2></h2>
 	</div>
 		 
 	<div id="sidebar">
-	<h2>Левая панель</h2>
+	<h2></h2>
 	</div>
 		 
 	<div id="content">
-	<h2>Основной контент страницы</h2>
+	<h2></h2>
 	</div>
 		 
 	<div id="clear">
@@ -27,7 +27,7 @@
 	</div>
 							   
 	<div id="footer">
-	<h2>footer (низ сайта)</h2>
+	<h2></h2>
 	</div>
 </div>
 </body>
