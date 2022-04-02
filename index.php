@@ -1,9 +1,9 @@
-
-<?
+<!DOCTYPE html>
+<html>
 <head>
     <title>Блочная вёрстка</title>
 <link rel="stylesheet" type="text/css" href="style.css">
-
+</head>
 <body>
 <div id="container">
 	<div id="header">
@@ -31,4 +31,4 @@
 	</div>
 </div>
 </body>
-?>
+</html>
